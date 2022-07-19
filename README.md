@@ -1,5 +1,5 @@
 # Minesweeper 💣
-Minesweeper game, this is made with Tkinter library to implementing OOP concepts
+Minesweeper game, this is made with Tkinter library for training OOP programming
 #
 ![Minesweeper](https://user-images.githubusercontent.com/77281736/178162325-7aaab794-775d-47bf-ac49-9046fefbd825.png)
 #
